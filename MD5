@@ -1,0 +1,12 @@
+cc690aec86825db7a036f59e279592dc *DESCRIPTION
+bb0c902c613f2291fafd5235f94261e6 *NAMESPACE
+67b13e0d4f6f445ef0f898c6862bc72c *NEWS.md
+c9982e889d6bfdeb69d13948c32d954d *R/oscars.R
+8a2a310dd5bab40d299783e365677e7f *R/oscars.control.R
+918941329464242f9e1f0fe2144c8396 *R/print.oscars.R
+8b6d8ed03a4b38a8c37279b821f3929b *R/summary.oscars.R
+a0443a91b7b1d0e2b73156edc6bbde8a *README.md
+d8ef87cf5fab9f1020595b81dc1f39f6 *man/oscars.Rd
+617b8e6fc1417697de927c699c767be8 *man/oscars.control.Rd
+2eb2425ca2f1ffaa1aa7dfa3b61a4e38 *man/print.oscars.Rd
+2f44aafa7d374ff393fc8abd93aa6536 *man/summary.oscars.Rd
