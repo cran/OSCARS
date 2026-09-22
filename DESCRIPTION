@@ -1,7 +1,7 @@
 Package: OSCARS
 Type: Package
 Title: Global Bounded Optimization by the OSCARS-II Algorithm
-Version: 0.1.2
+Version: 0.2.1
 Maintainer: Chris Price <chrisj.price@canterbury.ac.nz>
 Authors@R: c(
       person("Chris", "Price", email="chrisj.price@canterbury.ac.nz", role=c("aut", "cre"))
@@ -18,11 +18,11 @@ Description: A collection of general optimization routines based on variants of
     derivative-free methods.
 License: Apache License (>= 2)
 Encoding: UTF-8
-Imports: stats
+Imports: stats, cli
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-05-04 04:09:09 UTC; cjp64
+Packaged: 2026-09-22 05:15:51 UTC; cjp64
 Author: Chris Price [aut, cre],
   Trent McDonald [aut, ctb] (R packaging)
 Repository: CRAN
-Date/Publication: 2026-05-06 19:50:11 UTC
+Date/Publication: 2026-09-22 06:00:02 UTC
